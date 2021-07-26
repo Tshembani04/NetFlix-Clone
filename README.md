@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 ## This is a NetFlix clone that I created to test my knowledge of React, Redux, javascript and Firebase.  You can download my code but make sure you know how to code in React 😁✌💻🤞.
+
+![netflix-clone](https://user-images.githubusercontent.com/43039787/127060767-cd559ab9-16a7-4b89-8911-0d3998133086.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
